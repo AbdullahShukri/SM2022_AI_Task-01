@@ -1,2 +1,3 @@
-# SM2022_AI_Task 01.1
-Install ROS Noeitic == Ubuntu 20 
+# Ubuntu install of ROS Noetic
+This repo aims to describe step by step the process and algorithms used to install ROS on a Jetson Nano Coumputer.
+
