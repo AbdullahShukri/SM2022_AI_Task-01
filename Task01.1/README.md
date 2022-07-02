@@ -1,13 +1,12 @@
 # Install ROS Noetic in Ubuntu
 This repo aims to describe step by step the process and algorithms used to install ROS on a Ubuntu
 <br>
-<br>
 
 ### Table of Contents
 * [Installation](#installation)
 * [Testing](#testing)
 * [Concluion](#concluion)
-
+<br>
 
 ## Installation
 Install the `ros-noeitic-ros-base` package following these directions:
