@@ -1,4 +1,4 @@
-# Ubuntu install of ROS Noetic
+# install ROS Noetic in Ubuntu
 This repo aims to describe step by step the process and algorithms used to install ROS on a Ubuntu
 <br>
 <br>
