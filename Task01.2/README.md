@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=fxRWY0j3p_U
 
 
 ## Testing
+If you installed ros-foxy-desktop above you can try some examples.
+![Task 01 2](https://user-images.githubusercontent.com/101488769/176994276-2ff7332f-40bb-4b92-ad6f-a5aa9768025c.png)
 <br>
 
 
