@@ -1,7 +1,6 @@
 # Install ROS2 Foxy in Ubuntu 20.04
 This repo aims to describe step by step the process and algorithms used to install ROS2 on a Ubuntu
 <br>
-<br>
 
 ### Table of Contents
 * [Installation](#installation)
