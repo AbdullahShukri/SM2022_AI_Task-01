@@ -24,11 +24,20 @@ https://www.youtube.com/watch?v=fxRWY0j3p_U
 
 ## Testing
 If you installed ros-foxy-desktop above you can try some examples.
-In one terminal, source the setup file and then run a C++ talker:
+<br>
+
+In one terminal, source the setup file and then run a C++ ``` talker```:
+```
+source /opt/ros/foxy/setup.bash
+ros2 run demo_nodes_cpp talke
+```
+
+In another terminal source the setup file and then run a Python listener:
 ```
 source /opt/ros/foxy/setup.bash
 ros2 run demo_nodes_py listener
 ```
+
 
 ![Task 01 2](https://user-images.githubusercontent.com/101488769/176994276-2ff7332f-40bb-4b92-ad6f-a5aa9768025c.png)
 <br>
