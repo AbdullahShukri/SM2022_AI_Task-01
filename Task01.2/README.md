@@ -20,6 +20,7 @@ Install the `ros-foxy-ros-base` package following these directions:
 ## Video to help
 https://www.youtube.com/watch?v=fxRWY0j3p_U
 <br>
+<br>
 
 
 ## Testing
@@ -32,7 +33,7 @@ source /opt/ros/foxy/setup.bash
 ros2 run demo_nodes_cpp talke
 ```
 
-In another terminal source the setup file and then run a Python listener:
+In another terminal source the setup file and then run a Python ```listener```:
 ```
 source /opt/ros/foxy/setup.bash
 ros2 run demo_nodes_py listener
@@ -41,7 +42,7 @@ ros2 run demo_nodes_py listener
 
 ![Task 01 2](https://user-images.githubusercontent.com/101488769/176994276-2ff7332f-40bb-4b92-ad6f-a5aa9768025c.png)
 <br>
-
+<br>
 
 ## Concluion 
 there are few ways to install and set up ROS2 on Ubuntu which usually is a straight fowrward process. I chose to do this task using this method since it simplifies the process and prevent possiople errors.
