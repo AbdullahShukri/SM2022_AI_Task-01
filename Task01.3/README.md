@@ -59,4 +59,4 @@ In the below image on the right Terminal.
 <br>
 
 ## Concluion 
-there are few ways to install and set up ROS2 on Ubuntu which usually is a straight fowrward process. I chose to do this task using this method since it simplifies the process and prevent possiople errors.
+there are few ways to install and set up ROS2 and xUbuntu on jeston nano which usually is a straight fowrward process. I chose to do this task using this method since it simplifies the process and prevent possiople errors.
