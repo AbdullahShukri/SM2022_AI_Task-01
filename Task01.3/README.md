@@ -1,10 +1,19 @@
 ## install xubuntu in  Jetson Nano
+This repo aims to describe step by step the process and algorithms used to install xubuntu in  Jetson Nano
+<br>
 
+### Table of Contents
+* [Install xubuntu in Jetson Nano](#install_xubuntu_in_Jetson_Nano)
+* [Download balena](#download_balena)
+* [Video to help](#video_to_help)
+* [Testing](#testing)
+* [Concluion](#concluion)
+<br>
+
+## Install xubuntu in  Jetson Nano
 #### https://github.com/Discombobulated88/Xubuntu-20.04-L4T-32.3.1/releases/download/v1.0/Xubuntu-20.04-l4t-r32.3.1.tar.tbz2
 
-## download balena
-
-
+## Download balena
 #### https://www.balena.io/etcher/
 
 after we download both Should be write xubuntu to flash or card useing balena
