@@ -31,12 +31,14 @@ In one terminal, source the setup file and then run a C++ ``` talker```:
 source /opt/ros/foxy/setup.bash
 ros2 run demo_nodes_cpp talke
 ```
+In the below image on the left Terminal.
 
 In another terminal source the setup file and then run a Python ```listener```:
 ```
 source /opt/ros/foxy/setup.bash
 ros2 run demo_nodes_py listener
 ```
+In the below image on the right Terminal.
 
 
 ![Task 01 2](https://user-images.githubusercontent.com/101488769/176994276-2ff7332f-40bb-4b92-ad6f-a5aa9768025c.png)
