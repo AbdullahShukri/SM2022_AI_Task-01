@@ -6,7 +6,7 @@ This repo aims to describe step by step the process and algorithms used to insta
 * [Install xubuntu in Jetson Nano](#install_xubuntu_in_Jetson_Nano)
 * [Download balena](#download_balena)
 * [Watch the video](#Watch_the_video)
-* 
+* [Installation] (#Installation)
 * [Testing](#testing)
 * [Concluion](#concluion)
 <br>
@@ -23,5 +23,8 @@ after we download both Should be write xubuntu to flash or card useing balena
 
 ## Watching the video
 #### https://www.youtube.com/watch?v=6WZOlkS4D7c
+<br>
 
+## Installation
+#### https://docs.ros.org/en/foxy/Installation/Ubuntu-Install-Debians.html
 
